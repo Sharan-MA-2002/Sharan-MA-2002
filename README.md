@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sharan M A</h1>
-<h3 align="center">A passionate web & app dev from India</h3>
+<h3 align="center">A budding technophile hailing from India</h3>
 
 - 🔭 I’m currently working on **something cool**
 
